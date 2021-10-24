@@ -106,7 +106,8 @@ section{
 .hero-form button:hover{
     color:green ;
 }
-}.intro p{
+
+.intro p{
     line-height: 1.7;
     color: #39a6b2;
     width: 80%;
